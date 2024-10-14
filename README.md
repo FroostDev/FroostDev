@@ -5,8 +5,8 @@ Je suis actuellement en 1ère année de BUT Métiers du Multimédia et de l'Inte
 ### 🖥️ Langages et outils que j'utilise :
 - **HTML**
 - **CSS**
-- **JavaScript**
-- **Python**
+- ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
+- ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
 
 ### 🎨 Outils de design que je maîtrise :
 - **Adobe Photoshop**
