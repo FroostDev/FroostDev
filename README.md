@@ -1,6 +1,7 @@
-# Salut, je suis Michaël VLESIK 👋
+![github-header-image](https://github.com/user-attachments/assets/bde04dea-74d4-4cbb-a41d-783b2ef2aa7b)
 
 Je suis actuellement en 1ère année de BUT Métiers du Multimédia et de l'Internet (MMI) à l'IUT de Mulhouse. Passionné par le développement Web, je me concentre particulièrement sur les technologies du **Front-End**.
+
 
 ### 🖥️ Langages et outils que j'utilise :
 - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
