@@ -1,16 +1,19 @@
-## Hi there 👋
+# Salut, je suis Michaël VLESIK 👋
 
-<!--
-**FroostDev/FroostDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis actuellement en 1ère année de BUT Métiers du Multimédia et de l'Internet (MMI) à l'IUT de Mulhouse. Passionné par le développement Web, je me concentre particulièrement sur les technologies du **Front-End**.
 
-Here are some ideas to get you started:
+### 🖥️ Langages et outils que j'utilise :
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **Python**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎨 Outils de design que je maîtrise :
+- **Adobe Photoshop**
+- **Adobe Illustrator**
+- **Canva**
+
+### 🎯 Objectif professionnel :
+Mon but est de devenir **développeur front-end** et de maîtriser les technologies liées à ce domaine. Je suis constamment à la recherche de nouveaux défis pour améliorer mes compétences et apprendre de nouvelles technologies.
+
+N'hésite pas à explorer mes projets et à me contacter si tu veux collaborer !
