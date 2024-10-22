@@ -17,6 +17,6 @@ Je suis actuellement en 1ère année de BUT Métiers du Multimédia et de l'Inte
 - ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ### 🎯 Objectif professionnel :
-Mon but est de devenir **développeur front-end** et de maîtriser les technologies liées à ce domaine. Je suis constamment à la recherche de nouveaux défis pour améliorer mes compétences et apprendre de nouvelles technologies.
+Mon but est de devenir **développeur fullstack** et de maîtriser les technologies liées à ce domaine. Je suis constamment à la recherche de nouveaux défis pour améliorer mes compétences et apprendre de nouvelles technologies.
 
 N'hésite pas à explorer mes projets et à me contacter si tu veux collaborer !
