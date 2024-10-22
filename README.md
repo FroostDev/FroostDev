@@ -1,4 +1,4 @@
-![github-header-image](https://github.com/user-attachments/assets/bde04dea-74d4-4cbb-a41d-783b2ef2aa7b)
+![github-header-image](https://github.com/user-attachments/assets/8e34831d-7911-4129-997a-4301a9a63e64)
 
 Je suis actuellement en 1ère année de BUT Métiers du Multimédia et de l'Internet (MMI) à l'IUT de Mulhouse. Passionné par le développement Web, je me concentre particulièrement sur les technologies du **Front-End**.
 
