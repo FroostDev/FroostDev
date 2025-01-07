@@ -20,3 +20,5 @@ Je suis actuellement en 1ère année de BUT Métiers du Multimédia et de l'Inte
 Mon but est de devenir **développeur fullstack** et de maîtriser les technologies liées à ce domaine. Je suis constamment à la recherche de nouveaux défis pour améliorer mes compétences et apprendre de nouvelles technologies.
 
 N'hésite pas à explorer mes projets et à me contacter si tu veux collaborer !
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
