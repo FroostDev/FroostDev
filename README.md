@@ -21,4 +21,4 @@ Mon but est de devenir **développeur fullstack** et de maîtriser les technolog
 
 N'hésite pas à explorer mes projets et à me contacter si tu veux collaborer !
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=FroostDev&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
