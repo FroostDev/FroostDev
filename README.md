@@ -26,7 +26,7 @@ Je suis actuellement en 1ère année de BUT Métiers du Multimédia et de l'Inte
 `Autres`
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-### 🖥️ Les OS et serveur que j'utilise :
+### 🖥️ Les OS que j'utilise :
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 
 ### 🎨 Outils de design que je maîtrise :
